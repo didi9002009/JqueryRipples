@@ -1,2 +1,0 @@
-# JqueryRipples
-Created with CodeSandbox
